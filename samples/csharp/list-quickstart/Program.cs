@@ -10,7 +10,7 @@ namespace list_quickstart
         {
             WorkingWithStrings();
 
-            var fibonacciNumbers = new List<int> {1, 1};
+            var fibonacciNumbers = new List<int> {0, 1};
 
             while (fibonacciNumbers.Count < 20)
             {
